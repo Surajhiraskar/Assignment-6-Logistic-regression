@@ -1,4 +1,4 @@
-# Surajhiraskar-Assignment-6-Simple-Linear-Regression
+# Assignment-6-Logistic-regression
 
 Attribute information For bank dataset
 
